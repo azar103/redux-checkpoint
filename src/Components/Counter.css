@@ -1,0 +1,19 @@
+.container_counter {
+    width: 200px;
+    margin-top: 200px;
+}
+
+button {
+    color: black;
+    font-size: 50px;
+    padding: 20px;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+span {
+    font-size: 60px;
+    font-weight: 600;
+}
